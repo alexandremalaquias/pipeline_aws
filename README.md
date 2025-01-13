@@ -1,8 +1,6 @@
-* Laboratorio github actions para certificação
+**Laboratorio github actions para certificação**
 
-Criado por Alexandre Malaquias
-
- - O intuito deste laboratorio são realizar os estudos necessarios para passar na prova de certificação github actions (na data de 13/01/2025), serão abordados os topicos abaixo:
+O intuito deste laboratorio são realizar os estudos necessarios para passar na prova de certificação github actions (na data de 13/01/2025), serão abordados os topicos abaixo:
 
  Domain 1: Author and maintain workflows
 
@@ -24,3 +22,6 @@ Domain 4: Manage GitHub Actions in the enterprise
 * Disabling or limiting GitHub Actions for your organization
 Setting up self-hosted runners
 Managing access to self-hosted runners
+
+
+Criado por Alexandre Malaquias
